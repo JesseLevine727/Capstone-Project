@@ -1,0 +1,1025 @@
+{
+    "patient_id": "Adolf",
+    "data": [
+        {
+            "timestamp": "2024-11-07 20:38:37",
+            "vital_signs": {
+                "heart_rate": 124,
+                "respiratory_rate": 64,
+                "body_temperature": 37.3
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 20:43:37",
+            "vital_signs": {
+                "heart_rate": 138,
+                "respiratory_rate": 75,
+                "body_temperature": 37.1
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 20:48:37",
+            "vital_signs": {
+                "heart_rate": 134,
+                "respiratory_rate": 62,
+                "body_temperature": 36.7
+            },
+            "intervention": {
+                "type": "feeding",
+                "detail": "30 ml formula"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 20:53:37",
+            "vital_signs": {
+                "heart_rate": 128,
+                "respiratory_rate": 68,
+                "body_temperature": 37.3
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 20:58:37",
+            "vital_signs": {
+                "heart_rate": 102,
+                "respiratory_rate": 94,
+                "body_temperature": 36.6
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 21:03:37",
+            "vital_signs": {
+                "heart_rate": 128,
+                "respiratory_rate": 67,
+                "body_temperature": 36.9
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 21:08:37",
+            "vital_signs": {
+                "heart_rate": 109,
+                "respiratory_rate": 91,
+                "body_temperature": 37.0
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 21:13:37",
+            "vital_signs": {
+                "heart_rate": 126,
+                "respiratory_rate": 71,
+                "body_temperature": 36.8
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 21:18:37",
+            "vital_signs": {
+                "heart_rate": 110,
+                "respiratory_rate": 49,
+                "body_temperature": 37.0
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 21:23:37",
+            "vital_signs": {
+                "heart_rate": 107,
+                "respiratory_rate": 66,
+                "body_temperature": 37.0
+            },
+            "intervention": {
+                "type": "lighting adjustment",
+                "detail": "dim"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 21:28:37",
+            "vital_signs": {
+                "heart_rate": 97,
+                "respiratory_rate": 54,
+                "body_temperature": 37.1
+            },
+            "intervention": {
+                "type": "position change",
+                "detail": "right lateral"
+            },
+            "pain_level": "Moderate"
+        },
+        {
+            "timestamp": "2024-11-07 21:33:37",
+            "vital_signs": {
+                "heart_rate": 120,
+                "respiratory_rate": 58,
+                "body_temperature": 36.7
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 21:38:37",
+            "vital_signs": {
+                "heart_rate": 121,
+                "respiratory_rate": 70,
+                "body_temperature": 37.2
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 21:43:37",
+            "vital_signs": {
+                "heart_rate": 144,
+                "respiratory_rate": 57,
+                "body_temperature": 36.8
+            },
+            "intervention": {
+                "type": "diaper change",
+                "detail": null
+            },
+            "pain_level": "Moderate"
+        },
+        {
+            "timestamp": "2024-11-07 21:48:37",
+            "vital_signs": {
+                "heart_rate": 125,
+                "respiratory_rate": 49,
+                "body_temperature": 37.4
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 21:53:37",
+            "vital_signs": {
+                "heart_rate": 108,
+                "respiratory_rate": 57,
+                "body_temperature": 36.9
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 21:58:37",
+            "vital_signs": {
+                "heart_rate": 129,
+                "respiratory_rate": 47,
+                "body_temperature": 37.2
+            },
+            "intervention": {
+                "type": "lighting adjustment",
+                "detail": "bright"
+            },
+            "pain_level": "Moderate"
+        },
+        {
+            "timestamp": "2024-11-07 22:03:37",
+            "vital_signs": {
+                "heart_rate": 146,
+                "respiratory_rate": 67,
+                "body_temperature": 36.5
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 22:08:37",
+            "vital_signs": {
+                "heart_rate": 134,
+                "respiratory_rate": 83,
+                "body_temperature": 37.1
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 22:13:37",
+            "vital_signs": {
+                "heart_rate": 119,
+                "respiratory_rate": 54,
+                "body_temperature": 36.8
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 22:18:37",
+            "vital_signs": {
+                "heart_rate": 129,
+                "respiratory_rate": 52,
+                "body_temperature": 36.8
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 22:23:37",
+            "vital_signs": {
+                "heart_rate": 125,
+                "respiratory_rate": 75,
+                "body_temperature": 37.4
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 22:28:37",
+            "vital_signs": {
+                "heart_rate": 108,
+                "respiratory_rate": 70,
+                "body_temperature": 37.0
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 22:33:37",
+            "vital_signs": {
+                "heart_rate": 148,
+                "respiratory_rate": 50,
+                "body_temperature": 37.4
+            },
+            "intervention": {
+                "type": "oxygen administration",
+                "detail": "increase flow"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 22:38:37",
+            "vital_signs": {
+                "heart_rate": 127,
+                "respiratory_rate": 54,
+                "body_temperature": 36.6
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 22:43:37",
+            "vital_signs": {
+                "heart_rate": 115,
+                "respiratory_rate": 59,
+                "body_temperature": 37.2
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 22:48:37",
+            "vital_signs": {
+                "heart_rate": 125,
+                "respiratory_rate": 63,
+                "body_temperature": 36.8
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 22:53:37",
+            "vital_signs": {
+                "heart_rate": 154,
+                "respiratory_rate": 82,
+                "body_temperature": 37.2
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 22:58:37",
+            "vital_signs": {
+                "heart_rate": 136,
+                "respiratory_rate": 64,
+                "body_temperature": 37.3
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 23:03:37",
+            "vital_signs": {
+                "heart_rate": 108,
+                "respiratory_rate": 50,
+                "body_temperature": 37.1
+            },
+            "intervention": {
+                "type": "oxygen administration",
+                "detail": "increase flow"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 23:08:37",
+            "vital_signs": {
+                "heart_rate": 113,
+                "respiratory_rate": 69,
+                "body_temperature": 36.8
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 23:13:37",
+            "vital_signs": {
+                "heart_rate": 139,
+                "respiratory_rate": 66,
+                "body_temperature": 37.2
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 23:18:37",
+            "vital_signs": {
+                "heart_rate": 101,
+                "respiratory_rate": 61,
+                "body_temperature": 36.8
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 23:23:37",
+            "vital_signs": {
+                "heart_rate": 110,
+                "respiratory_rate": 57,
+                "body_temperature": 36.5
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 23:28:37",
+            "vital_signs": {
+                "heart_rate": 151,
+                "respiratory_rate": 67,
+                "body_temperature": 36.8
+            },
+            "intervention": {
+                "type": "feeding",
+                "detail": "12 ml formula"
+            },
+            "pain_level": "Extreme"
+        },
+        {
+            "timestamp": "2024-11-07 23:33:37",
+            "vital_signs": {
+                "heart_rate": 143,
+                "respiratory_rate": 53,
+                "body_temperature": 37.1
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 23:38:37",
+            "vital_signs": {
+                "heart_rate": 113,
+                "respiratory_rate": 93,
+                "body_temperature": 37.2
+            },
+            "intervention": {
+                "type": "lighting adjustment",
+                "detail": "dim"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 23:43:37",
+            "vital_signs": {
+                "heart_rate": 169,
+                "respiratory_rate": 117,
+                "body_temperature": 37.0
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 23:48:37",
+            "vital_signs": {
+                "heart_rate": 185,
+                "respiratory_rate": 50,
+                "body_temperature": 37.2
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 23:53:37",
+            "vital_signs": {
+                "heart_rate": 136,
+                "respiratory_rate": 48,
+                "body_temperature": 36.9
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-07 23:58:37",
+            "vital_signs": {
+                "heart_rate": 100,
+                "respiratory_rate": 46,
+                "body_temperature": 36.5
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 00:03:37",
+            "vital_signs": {
+                "heart_rate": 107,
+                "respiratory_rate": 47,
+                "body_temperature": 37.3
+            },
+            "intervention": {
+                "type": "lighting adjustment",
+                "detail": "dim"
+            },
+            "pain_level": "Moderate"
+        },
+        {
+            "timestamp": "2024-11-08 00:08:37",
+            "vital_signs": {
+                "heart_rate": 143,
+                "respiratory_rate": 71,
+                "body_temperature": 37.1
+            },
+            "intervention": {
+                "type": "feeding",
+                "detail": "20 ml formula"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 00:13:37",
+            "vital_signs": {
+                "heart_rate": 126,
+                "respiratory_rate": 76,
+                "body_temperature": 36.5
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 00:18:37",
+            "vital_signs": {
+                "heart_rate": 149,
+                "respiratory_rate": 52,
+                "body_temperature": 36.8
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 00:23:37",
+            "vital_signs": {
+                "heart_rate": 121,
+                "respiratory_rate": 77,
+                "body_temperature": 36.9
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 00:28:37",
+            "vital_signs": {
+                "heart_rate": 101,
+                "respiratory_rate": 66,
+                "body_temperature": 36.8
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 00:33:37",
+            "vital_signs": {
+                "heart_rate": 123,
+                "respiratory_rate": 63,
+                "body_temperature": 37.0
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 00:38:37",
+            "vital_signs": {
+                "heart_rate": 103,
+                "respiratory_rate": 55,
+                "body_temperature": 37.2
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 00:43:37",
+            "vital_signs": {
+                "heart_rate": 112,
+                "respiratory_rate": 58,
+                "body_temperature": 37.2
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 00:48:37",
+            "vital_signs": {
+                "heart_rate": 138,
+                "respiratory_rate": 71,
+                "body_temperature": 36.8
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 00:53:37",
+            "vital_signs": {
+                "heart_rate": 135,
+                "respiratory_rate": 43,
+                "body_temperature": 37.3
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 00:58:37",
+            "vital_signs": {
+                "heart_rate": 138,
+                "respiratory_rate": 60,
+                "body_temperature": 36.9
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 01:03:37",
+            "vital_signs": {
+                "heart_rate": 111,
+                "respiratory_rate": 63,
+                "body_temperature": 36.6
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 01:08:37",
+            "vital_signs": {
+                "heart_rate": 149,
+                "respiratory_rate": 69,
+                "body_temperature": 36.6
+            },
+            "intervention": {
+                "type": "feeding",
+                "detail": "12 ml formula"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 01:13:37",
+            "vital_signs": {
+                "heart_rate": 128,
+                "respiratory_rate": 80,
+                "body_temperature": 37.0
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 01:18:37",
+            "vital_signs": {
+                "heart_rate": 148,
+                "respiratory_rate": 67,
+                "body_temperature": 36.9
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 01:23:37",
+            "vital_signs": {
+                "heart_rate": 162,
+                "respiratory_rate": 84,
+                "body_temperature": 36.5
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 01:28:37",
+            "vital_signs": {
+                "heart_rate": 106,
+                "respiratory_rate": 72,
+                "body_temperature": 36.5
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 01:33:37",
+            "vital_signs": {
+                "heart_rate": 127,
+                "respiratory_rate": 57,
+                "body_temperature": 37.3
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 01:38:37",
+            "vital_signs": {
+                "heart_rate": 132,
+                "respiratory_rate": 43,
+                "body_temperature": 36.6
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 01:43:37",
+            "vital_signs": {
+                "heart_rate": 106,
+                "respiratory_rate": 68,
+                "body_temperature": 37.0
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 01:48:37",
+            "vital_signs": {
+                "heart_rate": 126,
+                "respiratory_rate": 38,
+                "body_temperature": 37.2
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 01:53:37",
+            "vital_signs": {
+                "heart_rate": 123,
+                "respiratory_rate": 84,
+                "body_temperature": 37.0
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 01:58:37",
+            "vital_signs": {
+                "heart_rate": 114,
+                "respiratory_rate": 69,
+                "body_temperature": 37.3
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 02:03:37",
+            "vital_signs": {
+                "heart_rate": 128,
+                "respiratory_rate": 64,
+                "body_temperature": 37.2
+            },
+            "intervention": {
+                "type": "medication",
+                "detail": "analgesic 3 mg/kg"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 02:08:37",
+            "vital_signs": {
+                "heart_rate": 137,
+                "respiratory_rate": 59,
+                "body_temperature": 37.3
+            },
+            "intervention": {
+                "type": "lighting adjustment",
+                "detail": "dim"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 02:13:37",
+            "vital_signs": {
+                "heart_rate": 117,
+                "respiratory_rate": 75,
+                "body_temperature": 37.0
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 02:18:37",
+            "vital_signs": {
+                "heart_rate": 115,
+                "respiratory_rate": 70,
+                "body_temperature": 36.6
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 02:23:37",
+            "vital_signs": {
+                "heart_rate": 150,
+                "respiratory_rate": 54,
+                "body_temperature": 37.3
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 02:28:37",
+            "vital_signs": {
+                "heart_rate": 132,
+                "respiratory_rate": 69,
+                "body_temperature": 36.8
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 02:33:37",
+            "vital_signs": {
+                "heart_rate": 118,
+                "respiratory_rate": 60,
+                "body_temperature": 37.0
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 02:38:37",
+            "vital_signs": {
+                "heart_rate": 118,
+                "respiratory_rate": 88,
+                "body_temperature": 36.8
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 02:43:37",
+            "vital_signs": {
+                "heart_rate": 127,
+                "respiratory_rate": 65,
+                "body_temperature": 36.6
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 02:48:37",
+            "vital_signs": {
+                "heart_rate": 156,
+                "respiratory_rate": 71,
+                "body_temperature": 36.8
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 02:53:37",
+            "vital_signs": {
+                "heart_rate": 142,
+                "respiratory_rate": 45,
+                "body_temperature": 37.3
+            },
+            "intervention": {
+                "type": "lighting adjustment",
+                "detail": "bright"
+            },
+            "pain_level": "Moderate"
+        },
+        {
+            "timestamp": "2024-11-08 02:58:37",
+            "vital_signs": {
+                "heart_rate": 125,
+                "respiratory_rate": 83,
+                "body_temperature": 37.3
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 03:03:37",
+            "vital_signs": {
+                "heart_rate": 137,
+                "respiratory_rate": 52,
+                "body_temperature": 36.7
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 03:08:37",
+            "vital_signs": {
+                "heart_rate": 138,
+                "respiratory_rate": 62,
+                "body_temperature": 37.3
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 03:13:37",
+            "vital_signs": {
+                "heart_rate": 124,
+                "respiratory_rate": 56,
+                "body_temperature": 36.9
+            },
+            "intervention": {
+                "type": "medication",
+                "detail": "analgesic 2 mg/kg"
+            },
+            "pain_level": "Moderate"
+        },
+        {
+            "timestamp": "2024-11-08 03:18:37",
+            "vital_signs": {
+                "heart_rate": 102,
+                "respiratory_rate": 74,
+                "body_temperature": 36.6
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 03:23:37",
+            "vital_signs": {
+                "heart_rate": 158,
+                "respiratory_rate": 56,
+                "body_temperature": 37.1
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 03:28:37",
+            "vital_signs": {
+                "heart_rate": 147,
+                "respiratory_rate": 63,
+                "body_temperature": 37.2
+            },
+            "intervention": {
+                "type": "lighting adjustment",
+                "detail": "bright"
+            },
+            "pain_level": "Moderate"
+        },
+        {
+            "timestamp": "2024-11-08 03:33:37",
+            "vital_signs": {
+                "heart_rate": 126,
+                "respiratory_rate": 56,
+                "body_temperature": 37.0
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 03:38:37",
+            "vital_signs": {
+                "heart_rate": 120,
+                "respiratory_rate": 67,
+                "body_temperature": 36.6
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 03:43:37",
+            "vital_signs": {
+                "heart_rate": 126,
+                "respiratory_rate": 62,
+                "body_temperature": 37.0
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 03:48:37",
+            "vital_signs": {
+                "heart_rate": 137,
+                "respiratory_rate": 57,
+                "body_temperature": 37.4
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 03:53:37",
+            "vital_signs": {
+                "heart_rate": 137,
+                "respiratory_rate": 44,
+                "body_temperature": 36.7
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 03:58:37",
+            "vital_signs": {
+                "heart_rate": 133,
+                "respiratory_rate": 90,
+                "body_temperature": 36.7
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 04:03:37",
+            "vital_signs": {
+                "heart_rate": 125,
+                "respiratory_rate": 44,
+                "body_temperature": 36.7
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 04:08:37",
+            "vital_signs": {
+                "heart_rate": 122,
+                "respiratory_rate": 64,
+                "body_temperature": 36.8
+            },
+            "intervention": {
+                "type": "oxygen administration",
+                "detail": "increase flow"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 04:13:37",
+            "vital_signs": {
+                "heart_rate": 142,
+                "respiratory_rate": 49,
+                "body_temperature": 37.3
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 04:18:37",
+            "vital_signs": {
+                "heart_rate": 104,
+                "respiratory_rate": 61,
+                "body_temperature": 36.8
+            },
+            "intervention": {
+                "type": "feeding",
+                "detail": "28 ml formula"
+            },
+            "pain_level": "Moderate"
+        },
+        {
+            "timestamp": "2024-11-08 04:23:37",
+            "vital_signs": {
+                "heart_rate": 136,
+                "respiratory_rate": 68,
+                "body_temperature": 36.8
+            },
+            "intervention": {
+                "type": "oxygen administration",
+                "detail": "increase flow"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 04:28:37",
+            "vital_signs": {
+                "heart_rate": 152,
+                "respiratory_rate": 80,
+                "body_temperature": 36.6
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2024-11-08 04:33:37",
+            "vital_signs": {
+                "heart_rate": 135,
+                "respiratory_rate": 60,
+                "body_temperature": 37.1
+            },
+            "intervention": null,
+            "pain_level": "Low"
+        }
+    ]
+}
